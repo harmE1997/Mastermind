@@ -1,0 +1,19 @@
+C:\Mijn Documenten\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+C:\Mijn Documenten\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+C:\Mijn Documenten\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+C:\Mijn Documenten\Mastermind\Mastermind\obj\Debug\Mastermind.csprojResolveAssemblyReference.cache
+C:\Mijn Documenten\Mastermind\Mastermind\obj\Debug\Mastermind.Form1.resources
+C:\Mijn Documenten\Mastermind\Mastermind\obj\Debug\Mastermind.Properties.Resources.resources
+C:\Mijn Documenten\Mastermind\Mastermind\obj\Debug\Mastermind.csproj.GenerateResource.Cache
+C:\Mijn Documenten\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+C:\Mijn Documenten\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
+C:\Users\Administrator\Documents\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+C:\Users\Administrator\Documents\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+C:\Users\Administrator\Documents\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+C:\Users\Administrator\Documents\Mastermind\Mastermind\obj\Debug\Mastermind.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Mastermind\Mastermind\obj\Debug\Mastermind.Form1.resources
+C:\Users\Administrator\Documents\Mastermind\Mastermind\obj\Debug\Mastermind.Properties.Resources.resources
+C:\Users\Administrator\Documents\Mastermind\Mastermind\obj\Debug\Mastermind.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Mastermind\Mastermind\obj\Debug\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\Administrator\Documents\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
